@@ -2,7 +2,7 @@
 #
 WYPN - a little python3 script intended to generate a wordlist for brute-force attack using basic
 information about person. WYPN generates combinations formed from basic words you give the program 
-and associations to key words.
+and associations to keywords.
 Enjoy it!
 #
 WYPN is now avaliable on Linux systems. Recommended use systems with 2+ GB RAM.
@@ -14,7 +14,7 @@ How to get a program?
 #
 How the program works?
  - 1. You write to WYPN console basic information about user, such as: name, last name, birth, nickname, information about user's lover and children and key words (if you don't know some facts that WYPN requests, use 'ENTER' to skip a question)
-   2. WYPN generates a wordlist, using given information. Also WYPN uses parsing methods: it searches associating nouns to key words which are taken from "https://wordassociations.net". Standart length of the wordlist is about 3000000 - 12000000 potential passwords.
+   2. WYPN generates a wordlist, using given information. Also WYPN uses parsing methods: it searches associating nouns to keywords which are taken from "https://wordassociations.net". Standart length of the wordlist is about 3000000 - 12000000 potential passwords.
    3. After the program finished the process, potential passwords had been written into "wypn_wordlist.txt" (WYPN creates this file in a such directory as WYPN.py file)
    4. Well done! Now you can use generated wordlist for brute-force attack!
 
