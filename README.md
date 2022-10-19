@@ -2,7 +2,7 @@
 #
 WYPN - a little python3 script intended to generate a wordlist for brute-force attack using basic
 information about person. WYPN generates combinations formed from basic words you give the program 
-and associations to keywords.
+and associations to keywords. Made with Python 3.10
 Enjoy it!
 #
 WYPN is now avaliable on Linux systems. Recommended use systems with 2+ GB RAM.
