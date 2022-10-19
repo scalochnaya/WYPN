@@ -10,7 +10,7 @@ WYPN is now avaliable on Linux systems. Recommended use systems with 2+ GB RAM.
 How to get a program?
  - Write to Linux console 'git clone https://github.com/scalochnaya/WYPN' command. It will 
    download from GitHub repository all files that you need. 
-   After installation run 'python3 WYPN_demo.py' or 'python WYPN_demo.py' 
+   After installation run 'python3 WYPN_demo.py' or 'python WYPN_demo.py' (if you don't have installed packages, run in terminal 'sudo apt install python3-pip' and then 'pip install BeautifulSoup4')
 #
 
 How the program works?
