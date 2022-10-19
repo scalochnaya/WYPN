@@ -316,4 +316,4 @@ with open("wypn_wordlist.txt", "w+") as wordlist:
 ############################################################################
 
 # EPILOGUE
-print(f"\n\n\n{colors.GREEN}CONGRATULATIONS! YOU CREATED A WORDLIST WHICH INCLUDES " + str(len(dictionary)) + " POTENTIAL PASSWORDS!\nWELL, NOW YOU CAN USE IT\n===================\n['wypn_wordlist.txt' file had been created in such directory as this .py file]")
+print(f"\n\n\n{colors.GREEN}CONGRATULATIONS! YOU CREATED A WORDLIST WHICH INCLUDES " + str(len(dictionary)) + " POTENTIAL PASSWORDS!\nWELL, NOW YOU CAN USE IT\n===================\n['wypn_wordlist.txt' file had been created in such directory as this .py file]{color.WHITE}")
