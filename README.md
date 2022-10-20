@@ -4,7 +4,7 @@
 information about person. WYPN generates combinations formed from basic words you give the program 
 and associations to keywords. Made with Python 3.10.
 
-WYPN is now avaliable on Linux systems. Recommended use systems with 2+ GB RAM.
+WYPN is now available on Linux systems. Recommended use systems with 2+ GB RAM.
 #
 
 How to get a program?
