@@ -20,6 +20,7 @@ How the program works?
    4. Well done! Now you can use generated wordlist for brute-force attack!
 
 ! Remember that we use brute-force just for checking our own passwords !
+! Program created exclusively for educational purposes. I don't call for and condemn illegal actions !
 #
 
 Dear user,
