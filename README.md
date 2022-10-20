@@ -10,7 +10,7 @@ WYPN is now available on Linux systems. Recommended use systems with 2+ GB RAM.
 How to get a program?
  - Write to Linux console 'git clone https://github.com/scalochnaya/WYPN' command. It will 
    download from GitHub repository all files that you need. 
-   After installation run 'python3 WYPN_demo.py' or 'python WYPN_demo.py' (if you don't have installed packages, run in terminal 'sudo apt install python3-pip' and then 'pip install BeautifulSoup4')
+   After installation run 'python3 WYPN_demo.py' or 'python WYPN_demo.py' (if you don't have installed packages, run in terminal 'sudo apt install python3-pip' and then 'pip install BeautifulSoup4' and 'pip install lxml')
 #
 
 How the program works?
@@ -19,7 +19,7 @@ How the program works?
    3. After the program finished the process, potential passwords had been written into "wypn_wordlist.txt" (WYPN creates this file in a such directory as WYPN.py file)
    4. Well done! Now you can use generated wordlist for brute-force attack!
 
-Remember that we use brute-force just for checking our own passwords! :)
+! Remember that we use brute-force just for checking our own passwords !
 #
 
 Dear user,
